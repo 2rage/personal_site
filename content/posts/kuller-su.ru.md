@@ -30,13 +30,13 @@ series = ["Проект KulleR.su"]
 - [Data Life Engine](https://dle-news.ru) - Движок для радио и не выпущенного основного сайта
 
 
-## Некоторые снимки экрана с сервера SAMP
+## Некоторые скриншоты с сервера SAMP
 ---
-![дата выпуска сервера](/images/kuller.su_gameplay.png)
+![релиз сервера](/images/kuller.su_gameplay.png)
 
-![геймплей](/images/kuller.su_gameplay2.png)
+![геймплей](/images/kuller.su/gameplay.png)
 
-![геймплей](/images/kuller.su_online.png)
+![геймплей](/images/kuller.su/gameplay2.png)
 
 
 ## Старое видео геймплея с сервера

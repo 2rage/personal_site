@@ -32,11 +32,11 @@ See more info on [github.com/2rage/kuller_su](https://github.com/2rage/kuller_su
 
 ## Some screenshots from SAMP server
 ---
-![server release date](/images/kuller.su_gameplay.png)
+![server release date](/images/kuller.su/online.png)
 
-![gameplay](/images/kuller.su_gameplay2.png)
+![gameplay](/images/kuller.su/gameplay.png)
 
-![gameplay](/images/kuller.su_online.png)
+![gameplay](/images/kuller.su/gameplay2.png)
 
 
 ## Old gameplay video from server

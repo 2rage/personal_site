@@ -11,6 +11,7 @@ slug = "contact"
 
 - **Telegram**: По всем вопросам и предложениям пишите мне в [Telegram](https://t.me/the2rage)
 - **Email**: [2rage.name@gmail.com](mailto:2rage.name@gmail.com) или [the2rage@icloud.com](mailto:the2rage@icloud.com)
+- **Linkedin**: Связаться со мной через [Linkedin](https://www.linkedin.com/in/2rage/)
 
 ---
 

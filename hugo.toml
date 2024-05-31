@@ -17,7 +17,7 @@ author = "Konstantin Yakovlev"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "Konstantin Yakovlev | 2rage personal website"
 keywords = "blog,developer,personal"
-info = ["Python Developer", "DevOps"]
+info = ["Backend Developer", "DevOps"]
 avatarURL = "images/AvatarMain.jpeg"
 #gravatar = "john.doe@example.com"
 dateFormat = "2 January, 2006"
@@ -205,7 +205,7 @@ title = "Константин Яковлев"
 
 [languages.ru.params]
 author = "Константин Яковлев"
-info = ["Python Программист", "DevOps"]
+info = ["Backend Программист", "DevOps"]
 description = "Личный сайт 2rage"
 keywords = "блог,разработчик,личный"
 

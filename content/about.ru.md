@@ -9,7 +9,7 @@ author = "2rage"
 Привет, меня зовут Константин, также известен как **2rage**. 
 Я рад приветствовать вас на своем сайте, где делюсь знаниями и опытом в области IT. 
 
-{{< figure src="/images/main_avatar.jpeg" alt="Это я :)" caption="Это я :)" width="50%" >}}
+{{< figure src="/images/main_avatar.jpg" alt="Это я :)" caption="Это я :)" width="50%" >}}
 
 ---
 
